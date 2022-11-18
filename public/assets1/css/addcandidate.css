@@ -1,0 +1,71 @@
+.heading{
+    /* margin-top: 38px;
+    margin-bottom: -12px; */
+    font-size: 2.4rem;
+    font-family: 'Cormorant', serif;
+    font-weight: bold;
+}
+
+
+.editbtn{
+    background-color:  rgb(69 69 103);
+    color: white;
+    border: 0.4px solid #676161;
+}
+
+.editbtn:hover{
+    background-color: rgb(101, 101, 112);
+    color: black;
+    border: 0.4px solid #676161;
+}
+
+
+.viewbtn{
+    background-color: rgb(38 38 70);
+    color: white;
+    border: 0.4px solid #676161;
+}
+
+.viewbtn:hover{
+    background-color: rgb(101, 101, 112);
+    color: black;
+    border: 0.4px solid #676161;
+}
+
+.savebtn{
+    background-color:  rgb(69 69 103);
+    color: white;
+    border: 0.6px solid #676161;
+}
+
+.savebtn:hover{
+    background-color: rgb(101, 101, 112);
+    color: black;
+    border: 0.4px solid #676161;
+}
+
+/* .viewtable{
+    margin-top: 2rem;
+}
+
+.con{
+    margin-top: 7.5rem;
+} */
+
+.rowd{
+    padding-bottom: 285px;
+}
+.remove_item_btn1{
+    background-color: rgb(43, 8, 19);
+}
+
+.remove_item_btn1:hover{
+    background-color: rgb(62, 8, 25);
+}
+.remove_item_btn:hover{
+    background-color: rgb(62, 8, 25);
+}
+
+.remove_item_btn{
+    background-color: rgb(43, 8, 19);
+}
